@@ -6,8 +6,6 @@ var db = app.get('db');
 var productAttributes = [ 
     { label: 'Name', name: 'name' },
     { label: 'Description', name: 'description' },
-    { label: 'Color', name: 'color' },
-    { label: 'Flavour', name: 'flavour'},
     { label: 'Dimensions', name: 'dimensions' }
 ];
 
